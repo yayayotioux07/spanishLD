@@ -2016,3 +2016,11 @@
     -webkit-animation-name: overlay-slide-out-right;
     animation-name: overlay-slide-out-right
 }
+
+.imgprofilenew {
+  img {
+  display: block;
+  max-width: 50%;
+  height: auto;
+}
+}
